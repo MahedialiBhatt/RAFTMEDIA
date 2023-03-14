@@ -3,7 +3,7 @@ TO START NODE.JS APP
 (PRE-REQ :- Mysql should be installed on local system and in project directory create .env file (for reference check .env.example file))
 
 Step 1: npm install
-Step 2: npm start
+Step 2: npm run start
 
 LIST OF APIS:
 
